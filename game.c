@@ -1,5 +1,3 @@
-/* 	13578 Accepted */
-
 #include <stdio.h>
 #include <stdlib.h>
 
